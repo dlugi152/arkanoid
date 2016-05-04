@@ -1,0 +1,5 @@
+adam 600
+adam 400
+adam 200
+ewa 200
+rrrrRRRR 100
